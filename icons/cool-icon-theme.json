@@ -3,5 +3,39 @@
       "_folder_dark": {
         "iconPath": "./images/cool-theme.svg"
       }
-    }
+    },
+
+    "folderExpanded": "_folder_dark",
+	"folder": "_folder_dark",
+	"file": "_folder_dark",
+	"rootFolderExpanded": "_folder_dark",
+	"rootFolder": "_folder_dark",
+	"fileExtensions": {
+		// icons by file extension
+	},
+	"fileNames": {
+		// icons by file name
+	},
+	"languageIds": {
+		// icons by language id
+	},
+	"light": {
+		"folderExpanded": "_folder_dark",
+		"folder": "_folder_dark",
+		"rootFolderExpanded": "_folder_dark",
+		"rootFolder": "_folder_dark",
+		"file": "_folder_dark",
+		"fileExtensions": {
+			// icons by file extension
+		},
+		"fileNames": {
+			// icons by file name
+		},
+		"languageIds": {
+			// icons by language id
+		}
+	},
+	"highContrast": {
+		// overrides for high contrast
+	}
   }
