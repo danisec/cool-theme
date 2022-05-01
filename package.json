@@ -2,7 +2,8 @@
     "name": "cool-theme",
     "displayName": "Cool theme",
     "description": "A cool theme for Visual Studio Code",
-    "version": "1.0.1",
+    "version": "1.0.2",
+    "icon": "images/cool-theme.png",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -18,18 +19,11 @@
     "contributes": {
         "themes": [
             {
-                "label": "cool",
+                "label": "Cool theme - dark blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cool-color-theme.json"
             }
-        ],
-        "iconThemes": [
-            {
-              "id": "turtles",
-              "label": "Turtles",
-              "path": "./icons/cool-icon-theme.json"
-            }
-          ]
+        ]
     },
     "repository": {
 		"type": "git",
