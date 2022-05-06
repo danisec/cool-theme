@@ -14,7 +14,11 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/danisec/assets/blob/main/images/cool-theme/walpaper-preview/0-cool-theme%231-preview.png?raw=true" alt="Aura Theme" width="70%" />
+  <img src="https://github.com/danisec/assets/blob/main/images/cool-theme/walpaper-preview/0-cool-theme%231-preview.png?raw=true" alt="Cool Theme" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/danisec/assets/blob/main/images/cool-theme/walpaper-preview/0-cool-theme%232-preview.png?raw=true" alt="Cool Theme" width="100%" />
 </p>
 
 ### Installing
@@ -23,7 +27,7 @@
 2.  Search for `Cool theme` - by **Dani Aprilyanto**
 3.  Click **Install** to install it.
 4.  Click **Reload** to reload the your editor
-5.  Code > Preferences > Color Theme > **Cool**
+5.  Code > Preferences > Color Theme > **Cool theme**
 
 ## Author
 
