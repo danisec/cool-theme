@@ -2,7 +2,7 @@
     "name": "cool-theme",
     "displayName": "Cool theme",
     "description": "A cool theme for Visual Studio Code",
-    "version": "3.0.1",
+    "version": "3.1.0",
     "icon": "images/cool-theme.png",
     "engines": {
         "vscode": "^1.66.0"
