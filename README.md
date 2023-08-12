@@ -6,9 +6,8 @@
 
 <div align="center">
 
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/DaniAprilyanto.cool-theme.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=DaniAprilyanto.cool-theme)
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/DaniAprilyanto.cool-theme.svg)](https://marketplace.visualstudio.com/items?itemName=DaniAprilyanto.cool-theme)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/DaniAprilyanto.cool-theme.svg)](https://marketplace.visualstudio.com/items?itemName=DaniAprilyanto.cool-theme)
+[![Visual Studio Marketplace](https://vsmarketplacebadges.dev/version/DaniAprilyanto.cool-theme.svg)](https://marketplace.visualstudio.com/items?itemName=DaniAprilyanto.cool-theme)
+[![Installs](https://vsmarketplacebadges.dev/installs/DaniAprilyanto.cool-theme.svg)](https://marketplace.visualstudio.com/items?itemName=DaniAprilyanto.cool-theme)
 [![The MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 </div>
